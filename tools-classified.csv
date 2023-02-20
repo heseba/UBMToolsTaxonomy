@@ -1,62 +1,62 @@
-Tool,Category,job,degree of automation,focus,interface data input,user data input,output,target ui platform,commercial/Academic
-Adobe XD,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-Axure,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-Balsamiq,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-Figma (Autoflow),Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-InVision,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-JustInMind,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-Mockplus,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-Origami Studio,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-Sketch,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-uizard.io,Prototyping Tools,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
-MenuOptimizer (Aalto),Generative Tools based on UBMs/AI,design,semi-automatic,cognitive,prototype,implicit/none,interface model/prototype,desktop,academic
-GRIDS (Aalto),Generative Tools based on UBMs/AI,design,semi-automatic,visual perception,prototype,implicit/none,interface model/prototype,web,academic
-UI-image-to-GUI-skeleton,Generative Tools based on UBMs/AI,other,automatic,other,sketch,implicit/none,interface model/prototype,hybrid,academic
-Paper2Wire,Generative Tools based on UBMs/AI,other,automatic,other,sketch,implicit/none,interface model/prototype,hybrid,academic
-MS Sketch2Code,Generative Tools based on UBMs/AI,other,automatic,other,sketch,implicit/none,interface model/prototype,hybrid,other
-UIZard Design Assistant,Generative Tools based on UBMs/AI,design,semi-automatic,other,sketch,implicit/none,interface model/prototype,hybrid,commercial
-Usability Smells Finder,Automated (no users) usability validation/evaluation,evaluation,automatic,guidelines/patterns/standards,code,user interaction data/logs,"errors/warnings/""smells""",web,academic
-Qualidator,Automated (no users) usability validation/evaluation,evaluation,automatic,"accessibility, guidelines/patterns/standards",code,implicit/none,"errors/warnings/""smells"", interface metrics",web,academic
-USEFul,Automated (no users) usability validation/evaluation,evaluation,automatic,guidelines/patterns/standards,code,implicit/none,"errors/warnings/""smells""",web,academic
-WaPPU,Automated (no users) usability validation/evaluation,evaluation,automatic,cognitive,code,user survey data,interface metrics,web,academic
-AIM (Aalto Interface Metrics),UI/UX-related metrics/KPIs,evaluation,automatic,"visual perception, subjective/emotional",code,implicit/none,interface metrics,web,academic
-Zyro (Heatmaps prediction),UI/UX-related metrics/KPIs,evaluation,automatic,cognitive,image,implicit/none,interface-related image,hybrid,commercial
-Chrome/Firefox plug-ins (webpage stats),UI/UX-related metrics/KPIs,evaluation,automatic,technical,code,implicit/none,"errors/warnings/""smells""",web,other
-"Clicks/CTR prediction (Outbrain, UBR4CTR)",UI/UX-related metrics/KPIs,evaluation,automatic,marketing,code,user interaction data/logs,business kpis,web,both
-Eye-gaze/region-of-interest prediction,UI/UX-related metrics/KPIs,evaluation,automatic,cognitive,image,implicit/none,interface-related image,hybrid,both
-Web Vitals & Performance Metrics (https://web.dev/vitals-tools/),UI/UX-related metrics/KPIs,evaluation,automatic,technical,code,implicit/none,usability/interaction metrics,web,other
-material.io (Material Design guidelines),Design guidelines organization/validation tools,design,none,guidelines/patterns/standards,none,implicit/none,recommendations,hybrid,other
-XCUITest for XCode (Apple HIG),Design guidelines organization/validation tools,evaluation,instrumental,simulation,code,other,"errors/warnings/""smells""",mobile,commercial
-Test.ai (Apple HIG AI bots),Design guidelines organization/validation tools,evaluation,semi-automatic,technical,code,other,"errors/warnings/""smells""",hybrid,commercial
-UIS Hunter (https://uishunter.net.cn/),Design guidelines organization/validation tools,evaluation,automatic,guidelines/patterns/standards,image,other,"errors/warnings/""smells""",hybrid,academic
-CogTool,GOMS/KLM tools,evaluation,instrumental,"cognitive, motor behavior",prototype,other,usability/interaction metrics,hybrid,academic
-Cogulator,GOMS/KLM tools,evaluation,instrumental,"cognitive, motor behavior",model,other,usability/interaction metrics,hybrid,academic
-KLM calculator,GOMS/KLM tools,evaluation,instrumental,"cognitive, motor behavior",model,other,usability/interaction metrics,hybrid,other
-W3C validator (https://validator.w3.org/),HTML/CSS and accessibility validators,evaluation,automatic,technical,code,implicit/none,"errors/warnings/""smells""",web,other
-WAVE Web Accessibility Evaluation Tool,HTML/CSS and accessibility validators,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",web,academic
-AChecker,HTML/CSS and accessibility validators,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",web,academic
-SortSite,HTML/CSS and accessibility validators,evaluation,automatic,"technical, accessibility",code,implicit/none,"errors/warnings/""smells""",web,commercial
-Level Access Web Accessibility Tools,HTML/CSS and accessibility validators,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",web,commercial
-Selenium,Behavior simulation/GUI testing automation,evaluation,instrumental,simulation,code,other,simulated interactions,web,other
-Appium,Behavior simulation/GUI testing automation,evaluation,instrumental,simulation,code,other,simulated interactions,mobile,commercial
-Katalon (on top of Selenium and Applium),Behavior simulation/GUI testing automation,evaluation,instrumental,simulation,code,other,simulated interactions,hybrid,commercial
-Tricentis Tosca,Behavior simulation/GUI testing automation,evaluation,semi-automatic,simulation,code,other,simulated interactions,hybrid,commercial
-Eggplant,Behavior simulation/GUI testing automation,evaluation,semi-automatic,simulation,code,other,simulated interactions,hybrid,commercial
-Linux Desktop Testing Project,Behavior simulation/GUI testing automation,evaluation,instrumental,simulation,code,other,simulated interactions,desktop,other
-iMacros,Behavior simulation/GUI testing automation,evaluation,instrumental,simulation,code,other,simulated interactions,web,commercial
-Robot Framework,Behavior simulation/GUI testing automation,evaluation,instrumental,simulation,code,other,simulated interactions,web,other
-Behat (PHP framework),Behavior-driven development,other,instrumental,simulation,code,other,simulated interactions,web,other
-Capybara,Behavior-driven development,evaluation,instrumental,simulation,code,other,simulated interactions,web,other
-Cucumber (Gherkin),Behavior-driven development,"other, evaluation",instrumental,simulation,code,other,simulated interactions,web,commercial
-TestComplete,Behavior-driven development,evaluation,instrumental,simulation,code,other,simulated interactions,hybrid,commercial
-Twist,Behavior-driven development,evaluation,instrumental,simulation,code,other,simulated interactions,web,commercial
-Ranorex Studio (has GUI object recognition),Behavior-driven development,evaluation,instrumental,simulation,code,other,simulated interactions,hybrid,commercial
-IBM Rational Rhapsody,Model-driven development,other,instrumental,other,model,implicit/none,code,hybrid,commercial
-WebRatio,Model-driven development,other,instrumental,other,model,implicit/none,code,web,commercial
-CaseComplete,Model-driven development,other,instrumental,other,model,implicit/none,other,N/A,commercial
-Appian (UI Starter Kit Mockup Generator),Model-driven development,other,instrumental,other,model,implicit/none,code,hybrid,commercial
-AXIOM,Model-driven development,other,instrumental,other,model,implicit/none,code,mobile,academic
-Mendix Studio,Model-driven development,other,instrumental,other,model,implicit/none,code,mobile,commercial
-ViCRAM tool,Website visual appearance,evaluation,automatic,visual perception,code,implicit/none,interface metrics,web,academic
-VisualMind AI,Website visual appearance,evaluation,automatic,subjective/emotional (e.g. aesthetics),code,implicit/none,interface metrics,web,commercial
-Color/contrast checkers,Website visual appearance,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",hybrid,other
+Tool,Job,Degree of Automation,Focus,Interface Data Input,User Data Input,Output,Target UI Platform,Commercial/Academic
+Adobe XD,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+Axure,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+Balsamiq,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+Figma (Autoflow),design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+InVision,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+JustInMind,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+Mockplus,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+Origami Studio,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+Sketch,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+uizard.io,design,instrumental,other,none,implicit/none,interface model/prototype,hybrid,commercial
+MenuOptimizer (Aalto),design,semi-automatic,cognitive,prototype,implicit/none,interface model/prototype,desktop,academic
+GRIDS (Aalto),design,semi-automatic,visual perception,prototype,implicit/none,interface model/prototype,web,academic
+UI-image-to-GUI-skeleton,other,automatic,other,sketch,implicit/none,interface model/prototype,hybrid,academic
+Paper2Wire,other,automatic,other,sketch,implicit/none,interface model/prototype,hybrid,academic
+MS Sketch2Code,other,automatic,other,sketch,implicit/none,interface model/prototype,hybrid,other
+UIZard Design Assistant,design,semi-automatic,other,sketch,implicit/none,interface model/prototype,hybrid,commercial
+Usability Smells Finder,evaluation,automatic,guidelines/patterns/standards,code,user interaction data/logs,"errors/warnings/""smells""",web,academic
+Qualidator,evaluation,automatic,"accessibility, guidelines/patterns/standards",code,implicit/none,"errors/warnings/""smells"", interface metrics",web,academic
+USEFul,evaluation,automatic,guidelines/patterns/standards,code,implicit/none,"errors/warnings/""smells""",web,academic
+WaPPU,evaluation,automatic,cognitive,code,user survey data,interface metrics,web,academic
+AIM (Aalto Interface Metrics),evaluation,automatic,"visual perception, subjective/emotional",code,implicit/none,interface metrics,web,academic
+Zyro (Heatmaps prediction),evaluation,automatic,cognitive,image,implicit/none,interface-related image,hybrid,commercial
+Chrome/Firefox plug-ins (webpage stats),evaluation,automatic,technical,code,implicit/none,"errors/warnings/""smells""",web,other
+"Clicks/CTR prediction (Outbrain, UBR4CTR)",evaluation,automatic,marketing,code,user interaction data/logs,business kpis,web,both
+Eye-gaze/region-of-interest prediction,evaluation,automatic,cognitive,image,implicit/none,interface-related image,hybrid,both
+Web Vitals & Performance Metrics (https://web.dev/vitals-tools/),evaluation,automatic,technical,code,implicit/none,usability/interaction metrics,web,other
+material.io (Material Design guidelines),design,none,guidelines/patterns/standards,none,implicit/none,recommendations,hybrid,other
+XCUITest for XCode (Apple HIG),evaluation,instrumental,simulation,code,other,"errors/warnings/""smells""",mobile,commercial
+Test.ai (Apple HIG AI bots),evaluation,semi-automatic,technical,code,other,"errors/warnings/""smells""",hybrid,commercial
+UIS Hunter (https://uishunter.net.cn/),evaluation,automatic,guidelines/patterns/standards,image,other,"errors/warnings/""smells""",hybrid,academic
+CogTool,evaluation,instrumental,"cognitive, motor behavior",prototype,other,usability/interaction metrics,hybrid,academic
+Cogulator,evaluation,instrumental,"cognitive, motor behavior",model,other,usability/interaction metrics,hybrid,academic
+KLM calculator,evaluation,instrumental,"cognitive, motor behavior",model,other,usability/interaction metrics,hybrid,other
+W3C validator (https://validator.w3.org/),evaluation,automatic,technical,code,implicit/none,"errors/warnings/""smells""",web,other
+WAVE Web Accessibility Evaluation Tool,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",web,academic
+AChecker,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",web,academic
+SortSite,evaluation,automatic,"technical, accessibility",code,implicit/none,"errors/warnings/""smells""",web,commercial
+Level Access Web Accessibility Tools,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",web,commercial
+Selenium,evaluation,instrumental,simulation,code,other,simulated interactions,web,other
+Appium,evaluation,instrumental,simulation,code,other,simulated interactions,mobile,commercial
+Katalon (on top of Selenium and Applium),evaluation,instrumental,simulation,code,other,simulated interactions,hybrid,commercial
+Tricentis Tosca,evaluation,semi-automatic,simulation,code,other,simulated interactions,hybrid,commercial
+Eggplant,evaluation,semi-automatic,simulation,code,other,simulated interactions,hybrid,commercial
+Linux Desktop Testing Project,evaluation,instrumental,simulation,code,other,simulated interactions,desktop,other
+iMacros,evaluation,instrumental,simulation,code,other,simulated interactions,web,commercial
+Robot Framework,evaluation,instrumental,simulation,code,other,simulated interactions,web,other
+Behat (PHP framework),other,instrumental,simulation,code,other,simulated interactions,web,other
+Capybara,evaluation,instrumental,simulation,code,other,simulated interactions,web,other
+Cucumber (Gherkin),"other, evaluation",instrumental,simulation,code,other,simulated interactions,web,commercial
+TestComplete,evaluation,instrumental,simulation,code,other,simulated interactions,hybrid,commercial
+Twist,evaluation,instrumental,simulation,code,other,simulated interactions,web,commercial
+Ranorex Studio (has GUI object recognition),evaluation,instrumental,simulation,code,other,simulated interactions,hybrid,commercial
+IBM Rational Rhapsody,other,instrumental,other,model,implicit/none,code,hybrid,commercial
+WebRatio,other,instrumental,other,model,implicit/none,code,web,commercial
+CaseComplete,other,instrumental,other,model,implicit/none,other,N/A,commercial
+Appian (UI Starter Kit Mockup Generator),other,instrumental,other,model,implicit/none,code,hybrid,commercial
+AXIOM,other,instrumental,other,model,implicit/none,code,mobile,academic
+Mendix Studio,other,instrumental,other,model,implicit/none,code,mobile,commercial
+ViCRAM tool,evaluation,automatic,visual perception,code,implicit/none,interface metrics,web,academic
+VisualMind AI,evaluation,automatic,subjective/emotional (e.g. aesthetics),code,implicit/none,interface metrics,web,commercial
+Color/contrast checkers,evaluation,automatic,accessibility,code,implicit/none,"errors/warnings/""smells""",hybrid,other
