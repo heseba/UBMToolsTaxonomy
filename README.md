@@ -1,8 +1,8 @@
 # UBM Tools Taxonomy - Online Appendix
 
-This is the online appendix for the following paper submission:
+This is the online appendix for the following paper:
 
-Bakaev, M., Heil, S., Jagow, J., Speicher, M., Bauer, K., Gaedke, M.: A Taxonomy of User Behavior Model (UBM) Tools for UI Design and User Research. Submitted to 23rd International Conference on Web Engineering, ICWE 2023.
+Bakaev, M., Heil, S., Jagow, J., Speicher, M., Bauer, K., Gaedke, M.: A Taxonomy of User Behavior Model (UBM) Tools for UI Design and User Research. Proceedings of the 23rd International Conference on Web Engineering, ICWE 2023, 236–244, 2023.
 
 
 
